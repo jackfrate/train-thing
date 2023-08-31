@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "text",
+      "version": 418,
+      "versionNonce": 16223978,
+      "isDeleted": false,
+      "id": "d4GMVE19V9bRs_37JxDtQ",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 299,
+      "y": 192,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 397.1996765136719,
+      "height": 50,
+      "seed": 2064463553,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1693465813375,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "This is a simple app to learn api stuff \nin python",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "This is a simple app to learn api stuff \nin python",
+      "lineHeight": 1.25,
+      "baseline": 43
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
